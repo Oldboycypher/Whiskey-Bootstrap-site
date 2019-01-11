@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+   
+ /*containers*/
+ 
+ .alert-container {
+     
+ }
+ 
+ .callout-container {
+     height: 100vh;
+     background: url('../images/whiskey.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+ }
+ 
+ .quotes-container {
+     
+ }
+ 
+ .favorites-container {
+     
+ }
+ 
+ .features-container {
+     
+ }
