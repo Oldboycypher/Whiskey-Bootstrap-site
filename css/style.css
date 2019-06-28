@@ -4,28 +4,23 @@ body {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
 }
 
-.alert-container {}
+
 
 .callout-container {
     height: 100vh;
-
-    background: url('../images/whiskey-background.jpg') no-repeat center center fixed;
+    background: url('../images/whiskey.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
